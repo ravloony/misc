@@ -83,6 +83,8 @@ int main (int argc, char** argv) {
 	  currentNode = currentNode->next;
 	} else {
 	  currentNode = currentNode->back;
+	  if (currentNode->c == dna[i])
+	    currentNode = currentNode->next;
 	}
 	i++; // keep moving, as riddick would say
       } else {
