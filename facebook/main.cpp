@@ -1,6 +1,6 @@
 /*
  * This is a solution to an interviewstreet problem I was asked to solve as part of the Facebook engineer application process. 
- * I actually was not capable of finding a good solution in the 60 minutes allotted time, mostly due to my coding skillz being so fucking rusty, 
+ * I actually didn't find a good solution in the 60 minutes allotted time, 
  * but I was intrigued by the problem. So I solved it anyway.
  */
 #include <iostream>
